@@ -9,7 +9,7 @@ Whenever changes are pushed to the `main` branch, the pipeline:
 
 This ensures zero manual steps for deployment and enables faster shipping of features.
 
-![anazzm](images/about.png.png)
+![anazzm](images/about.png)
 
 ## 📌 Project Overview
 
